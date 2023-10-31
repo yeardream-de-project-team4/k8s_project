@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches:
-      - argocd
+      - feature/argocd
 
 jobs:
   build:
